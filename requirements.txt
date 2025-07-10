@@ -1,0 +1,6 @@
+ipykernel
+tensorflow==2.19.0
+matplotlib
+opencv-contrib-python
+Pillow==10.2.0
+scipy
